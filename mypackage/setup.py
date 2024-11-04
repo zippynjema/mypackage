@@ -6,9 +6,9 @@ setup(
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='EDSA example python package',
-    long_description=open(README.md).read(),
+    long_description=open('README.md').read(),
     install_requires=['numpy'],
     url='https://github.com/<zippynjema>/<mypackage>',
-    author='zipporah'
-    author_email=zippynjema@gmail.com
+    author='Zipporah Njeri',
+    author_email='zippynjema@gmail.com'
 )

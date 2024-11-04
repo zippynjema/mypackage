@@ -25,7 +25,3 @@ def top_n(items, n):
 
     # Return in decsending order
     return top_n[::-1]
-
-
-    # Check whether the itme  works
-    top_n([8, 3, 2, 7, 4], 3)
